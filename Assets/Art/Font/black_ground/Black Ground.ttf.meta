@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ea8e81e14a14e435dbadae4d296188e4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Black Ground
+  fontNames:
+  - Black Ground
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c34b16f65e9fa4a539c694bc7a8957ff, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
